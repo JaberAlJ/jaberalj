@@ -19,6 +19,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaberAlJ&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JaberAlJ&theme=onestar&no-bg=true&no-frame=true&margin-w=8&exclude=Stars,Issues,Reviews" alt="GitHub Trophies" />
+</p>
+
 ## 🧠 Tech Stack
 
 ### 🖥️ Programming Languages
